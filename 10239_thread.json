@@ -1,0 +1,10 @@
+{
+ "id":"10239",
+ "name":"Nikete",
+ "screen_name":"nikete",
+ "tweets":[
+  {"id":"1206579140511588352","timestamp":"1576505858","retweet_count":"1","favorite_count":"33","in_reply_to_status_id":"null","in_reply_to_user_id":"null","in_reply_to_screen_name":"null","text":"One like = one opinion (+reason) about alternative and non-traditional medicine.\n\nTook the @vgr bait to do a one-opinion-per-like personal challenge. https://t.co/BHHaJVUy1g"},
+  {"id":"1206586533488271360","timestamp":"1576507621","retweet_count":"4","favorite_count":"10","in_reply_to_status_id":"1206579140511588352","in_reply_to_user_id":"10239","in_reply_to_screen_name":"nikete","text":"@vgr 1. Alternative and non-traditional medicine is largely quacks and net harmful practices. Just like mainstream medicine. The fundamental cause of both is the same: misaligned incentives. Outside antibiotics, vaccination and public sanitation, little works, alternative or not."},
+  {"id":"1206598117208014852","timestamp":"1576510383","retweet_count":"0","favorite_count":"5","in_reply_to_status_id":"1206586533488271360","in_reply_to_user_id":"10239","in_reply_to_screen_name":"nikete","text":"@vgr 2. Alternative and non-traditional medicine treatments for non-infectious diseases should be systematically analyzed and where potential harms are limited tested as rigorously as possible while maintaining a much as possible their structure. https://t.co/B2KMz7O5v3"}
+ ]
+}
